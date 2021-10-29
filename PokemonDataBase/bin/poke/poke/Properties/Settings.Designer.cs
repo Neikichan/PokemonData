@@ -26,8 +26,8 @@ namespace poke.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"C:\\Users\\B8129\\github\\第1世代 .accdb\"" +
-            ";Persist Security Info=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"C:\\Users\\B8129\\github\\PokemonData\\" +
+            "第1世代 .accdb\";Persist Security Info=True")]
         public string AccessJ1 {
             get {
                 return ((string)(this["AccessJ1"]));
